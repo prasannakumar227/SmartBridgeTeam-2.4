@@ -62,4 +62,4 @@ This paper discusses the vulnerabilities and risks associated with session manag
 
 ## Live Demo
 
-Check out our Live Demo on [Youtube](https://www.youtube.com/watch?v=yourvideoID).
+Check out our Live Demo on [Youtube](https://youtu.be/-EGBZmGB0A8).
