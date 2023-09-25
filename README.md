@@ -1,6 +1,23 @@
 # Cyber Security and Ethical Hacking / Cyber Threat Intelligence (SIEM Analyst with IBM Qradar) Web Application and Penetration Testing
 
 This paper discusses the vulnerabilities and risks associated with session management in network security, particularly session hijacking. The project aimed to explore the techniques and countermeasures related to session hijacking to raise awareness and promote better security practices.
+## Table of Contents
+
+- [**Key Takeaways**](#key-takeaways)
+- [**Tools Used**](#tools-used)
+  - [Footprinting and reconnaissance](#footprinting-and-reconnaissance)
+  - [Open ports](#open-ports)
+  - [Vulnerability scanning](#vulnerability-scanning)
+  - [Vulnerability Exploitation](#vulnerability-exploitation)
+  - [Session Hijacking](#session-hijacking)
+  - [Top 10 OWASP vulnerability](#top-10-owasp-vulnerability)
+  - [Practice Website](#practice-website)
+  - [Target Website](#target-website)
+- [**Contributions**](#contributions)
+- [**Team Details**](#team-details)
+- [**Live Demo**](#live-demo)
+
+
 
 ## Key Takeaways
 
